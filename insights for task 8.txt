@@ -1,0 +1,5 @@
+1. The top-ranked customers contribute the highest sales, showing a clear customer concentration.
+2. MoM growth shows a steady increase during festive months, indicating seasonal demand.
+3. Some months show negative growth, which may be due to low promotional activity or market slowdown.
+4. The top 10 customers contribute more than 50% of total revenue, suggesting dependency on few customers.
+5. Business can focus on retention strategies for top customers and promotions during low-growth months.
