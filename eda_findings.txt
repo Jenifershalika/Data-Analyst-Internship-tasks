@@ -1,0 +1,7 @@
+README
+1. Students Performance dataset was analyzed.
+2. Math score distribution was visualized using histogram and boxplot.
+3. Outliers were detected using the IQR method.
+4. An outlier flag column was created.
+5. Outliers in math score were removed.
+6. Correlation analysis shows strong relation between math, reading, and writing scores.
