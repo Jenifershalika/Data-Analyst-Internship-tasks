@@ -1,0 +1,1 @@
+The A/B test was conducted at 95% confidence level. Based on the p-value, the difference between control and test groups was evaluated and a data-driven decision can be made.
