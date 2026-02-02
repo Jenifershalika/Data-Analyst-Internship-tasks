@@ -111,6 +111,93 @@ task10_eda.ipynb – Jupyter Notebook with full analysis
 cleaned_dataset.csv – Cleaned dataset after outlier removal
 
 eda_findings.txt – Summary of insights
+
+## Task 11: A/B Testing – Hypothesis Testing in Python
+📌 Objective
+
+The objective of this task is to perform A/B testing on a marketing dataset to evaluate whether showing ads leads to a higher conversion rate compared to the control group. Statistical hypothesis testing is used to make a data-driven business decision.
+
+🛠 Tools & Technologies Used
+
+Python
+
+Jupyter Notebook
+
+Libraries:
+
+pandas
+
+numpy
+
+scipy
+
+Excel (for viewing CSV output)
+
+📂 Dataset Description
+
+The dataset contains user-level information from a marketing experiment.
+
+Key columns used:
+
+test group → Identifies Control and Test groups
+
+converted → Boolean value indicating conversion (True/False)
+
+Other columns were not used for this analysis.
+
+🧪 Methodology
+
+Loaded the dataset using pandas
+
+Identified control and test groups
+
+Defined hypotheses:
+
+H0: No difference in conversion rates between groups
+
+H1: There is a difference in conversion rates
+
+Set significance level α = 0.05
+
+Performed Independent Two-Sample t-test
+
+Compared p-value with significance level
+
+Calculated conversion rates for both groups
+
+Summarized results and derived business insights
+
+📈 Results Summary
+Group	Users Count	Conversion Rate
+Control	23,524	~1.78%
+Test	564,577	~2.55%
+
+The Test group shows a higher conversion rate compared to the Control group.
+
+📁 Deliverables
+
+task11_abtest.ipynb → Complete A/B testing analysis
+
+ab_test_summary.csv → Summary of group performance
+
+final_recommendation.txt → Business recommendation
+
+README.md → Project documentation
+
+✅ Final Outcome
+
+This task demonstrates the ability to:
+
+Apply hypothesis testing in real-world scenarios
+
+Interpret statistical results
+
+Translate data insights into business decisions
+
+📌 Conclusion
+
+Based on the A/B testing analysis, the Test group performs better in terms of conversion rate. Statistical significance was evaluated using hypothesis testing to support decision-making.
+
 👩‍💻 Author
 Jenifer Shalika S
 Data Analytics Intern
