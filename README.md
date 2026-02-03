@@ -198,6 +198,87 @@ Translate data insights into business decisions
 
 Based on the A/B testing analysis, the Test group performs better in terms of conversion rate. Statistical significance was evaluated using hypothesis testing to support decision-making.
 
+## Task 12: Power BI – Data Transformation using Power Query
+📌 Objective
+
+The goal of this task is to perform real-world data cleaning and transformation using Power Query in Power BI and build basic visuals from the transformed data.
+
+🛠 Tools Used
+
+Power BI Desktop
+
+Power Query Editor
+
+Dataset: Global Superstore (Excel)
+
+📂 Dataset
+
+The dataset contains sales-related information such as:
+
+Order details
+
+Customer details
+
+Sales, Profit, Quantity
+
+Category and Segment
+
+The data was imported from an Excel file and transformed using Power Query.
+
+🔄 Data Transformation Steps
+
+The following transformations were performed in Power Query Editor:
+
+Removed unwanted rows and unnecessary columns
+
+Fixed column headers
+
+Corrected data types (Date, Text, Number)
+
+Handled missing values
+
+Renamed columns for better readability
+
+Created a conditional column (Profit Status: Profit / Loss)
+
+Verified data consistency
+
+📊 Dashboard Creation
+
+After applying transformations:
+
+Built 2–3 basic visuals, including:
+
+Bar chart (Sales by Category)
+
+Pie chart (Profit vs Loss)
+
+Column chart (Sales by Segment)
+
+These visuals help in understanding overall sales and profit distribution.
+
+📁 Project Files
+Task-12-PowerBI/
+│
+├── task12_transform.pbix
+├── dashboard_export.pdf
+├── transformation_notes.txt
+├── dataset/
+│   └── Global_Superstore.xlsx
+└── README.md
+
+✅ Final Outcome
+
+Gained hands-on experience in Power Query
+
+Understood real-world data cleaning workflow
+
+Built a basic but meaningful Power BI dashboard
+
+🚀 Conclusion
+
+This task helped strengthen my understanding of data transformation before analysis, which is a critical skill for Data Analyst roles.
+
 👩‍💻 Author
 Jenifer Shalika S
 Data Analytics Intern
