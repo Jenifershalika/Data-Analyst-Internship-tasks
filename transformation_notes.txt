@@ -1,0 +1,5 @@
+- Removed unwanted rows and columns
+- Fixed headers and datatypes
+- Handled missing values
+- Created conditional column (Profit Status)
+- Built basic dashboard visuals
