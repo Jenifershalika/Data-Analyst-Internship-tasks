@@ -279,6 +279,44 @@ Built a basic but meaningful Power BI dashboard
 
 This task helped strengthen my understanding of data transformation before analysis, which is a critical skill for Data Analyst roles.
 
+# Task 13 – BI Dashboard Storytelling (KPI Report)
+
+## 📊 Tool Used
+Power BI Desktop
+
+## 📁 Dataset
+Global Superstore Retail Sales Dataset
+
+## 🎯 Objective
+To create an interactive KPI dashboard showing business performance using key metrics such as Sales, Profit, and Profit Margin.
+
+## ✅ Steps Performed
+- Imported Superstore dataset into Power BI
+- Created KPI measures (Total Sales, Total Profit, Profit Margin)
+- Built dashboard using:
+  - KPI Cards
+  - Sales trend line chart
+  - Category wise sales bar chart
+  - Region performance chart
+  - Top 10 products table
+  - Interactive slicers
+- Added business insights section
+- Exported dashboard as PDF
+
+## 📈 Key Insights
+- Technology category generates the highest sales
+- West region shows the strongest performance
+- Sales increase during year-end months
+
+## 📦 Files Included
+- dashboard.pbix
+- dashboard_export.pdf
+- insights_task13.txt
+- README.md
+
+## 🚀 Outcome
+Created an executive-ready business dashboard for performance analysis and storytelling.
+
 👩‍💻 Author
 Jenifer Shalika S
 Data Analytics Intern
