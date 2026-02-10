@@ -317,6 +317,24 @@ To create an interactive KPI dashboard showing business performance using key me
 ## 🚀 Outcome
 Created an executive-ready business dashboard for performance analysis and storytelling.
 
+ETL Mini Pipeline – Customer Churn Dataset
+
+Extract:
+Loaded Excel dataset using pandas
+
+Transform:
+Removed nulls and duplicates
+Standardized column names
+Created derived column total_revenue
+Split data into logical tables
+
+Load:
+Exported cleaned CSV files
+Loaded tables into SQLite database
+
+Tools:
+Python, Pandas, SQLite, Jupyter Notebook
+
 
 👩‍💻 Author
 Jenifer Shalika S
