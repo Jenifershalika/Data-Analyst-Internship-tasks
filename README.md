@@ -335,6 +335,83 @@ Loaded tables into SQLite database
 Tools:
 Python, Pandas, SQLite, Jupyter Notebook
 
+# Task 15 – Customer Segmentation Using RFM Analysis
+
+## 📌 Project Overview
+This project focuses on customer segmentation using the RFM (Recency, Frequency, Monetary) analysis technique on an e-commerce dataset.
+
+RFM helps businesses identify high-value customers and design targeted marketing strategies.
+
+---
+
+## 🛠 Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+
+---
+
+## 📂 Dataset
+Online Retail E-commerce Dataset (Excel format)
+
+---
+
+## 🔍 Steps Performed
+
+1. Loaded and cleaned the dataset
+2. Removed missing values and cancelled transactions
+3. Converted invoice date to datetime format
+4. Created total transaction amount
+5. Calculated:
+   - Recency (days since last purchase)
+   - Frequency (number of purchases)
+   - Monetary (total spending)
+6. Created RFM scores using quantiles
+7. Segmented customers into:
+   - Champions
+   - Loyal Customers
+   - Potential Loyalists
+   - At Risk
+8. Visualized customer segments
+9. Exported segmentation results to CSV
+
+---
+
+## 📁 Deliverables
+
+- task15_rfm.ipynb
+- rfm_segments.csv
+- segment_actions.txt
+
+---
+
+## 📊 Outcome
+
+Customers were successfully segmented to help businesses:
+
+✔ Improve retention  
+✔ Increase sales  
+✔ Target marketing campaigns effectively  
+
+---
+
+## 📈 Business Use Case
+
+RFM analysis is widely used in:
+- E-commerce platforms
+- Retail analytics
+- Customer loyalty programs
+- Marketing automation systems
+
+---
+
+## ✅ Conclusion
+
+This project demonstrates practical customer segmentation using real-world transactional data and Python analytics tools.
+
+
 
 👩‍💻 Author
 Jenifer Shalika S
