@@ -1,0 +1,20 @@
+TASK 16 – TIME SERIES FORECASTING REPORT
+
+Objective:
+To analyze sales trends and forecast future sales using time series methods.
+
+Steps Performed:
+• Loaded sales dataset and converted date column
+• Aggregated monthly sales
+• Visualized trend over time
+• Split data into training and testing sets
+• Applied Exponential Smoothing forecasting model
+• Predicted future sales values
+• Evaluated model using MAE
+• Exported forecast results to CSV
+
+Results:
+The model successfully captured the sales trend and generated reasonable future predictions.
+
+Conclusion:
+Time series forecasting helps businesses plan inventory, revenue, and growth strategies effectively.
