@@ -406,6 +406,52 @@ RFM analysis is widely used in:
 - Marketing automation systems
 
 ---
+# 📊 Task 16 – Sales Forecasting (Time Series Analysis)
+
+## 📌 Objective
+To analyze historical sales data and forecast future sales using time series techniques in Python.
+
+---
+
+## 🛠 Tools Used
+- Python  
+- pandas  
+- matplotlib  
+- statsmodels  
+- scikit-learn  
+
+---
+
+## 📂 Project Files
+- task16_forecasting.ipynb → main analysis notebook  
+- forecast_output.csv → predicted sales results  
+- forecast_report.txt → summary of forecasting work  
+- sales_data.csv → original dataset  
+
+---
+
+## 📈 Steps Performed
+1. Data loading and cleaning  
+2. Date conversion  
+3. Monthly sales aggregation  
+4. Trend visualization  
+5. Train-test split by time  
+6. Exponential smoothing model  
+7. Forecast generation  
+8. Error evaluation (MAE)  
+9. CSV export  
+
+---
+
+## ✅ Outcome
+Successfully predicted future sales and understood time series trend behavior.
+
+---
+
+## 📌 Learning
+This project demonstrates how forecasting is used in real business decision making.
+
+
 
 ## ✅ Conclusion
 
